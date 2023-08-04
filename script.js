@@ -77,7 +77,7 @@ function Guess(ele) {
     }
     if (question_number == num_of_questions) {
       total_href =
-        "final.html?score=" +
+        "../final-screen/final.html?score=" +
         num_correct +
         "&num-of-questions=" +
         num_of_questions;
