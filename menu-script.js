@@ -8,6 +8,6 @@ slider.addEventListener("input", function () {
 // BUTTON
 function GameSelected(choice) {
   url_for_button =
-    "./quiz/quiz.html?type=" + choice + "&num-of-questions=" + slider.value;
+    "/quiz/quiz.html?type=" + choice + "&num-of-questions=" + slider.value;
   window.location.href = url_for_button;
 }
