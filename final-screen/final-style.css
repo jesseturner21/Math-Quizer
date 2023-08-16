@@ -2,23 +2,24 @@ body {
   text-align: center;
   font-family: "Roboto";
   font-size: 30px;
-  color: #f12d2d;
+  color: Black;
   display: grid;
   grid-gap: 100px;
   place-items: center;
 
   background: linear-gradient(
       45deg,
-      #f12d2d 25%,
+      white 25%,
       transparent 25%,
       transparent 75%,
-      #f12d2d 75%
+      white 75%
     ),
-    linear-gradient(45deg, #f12d2d 25%, #fdfd96 25%, #fdfd96 75%, #f12d2d 75%);
-  /*#f12d2d*/
+    linear-gradient(45deg, white 25%, black 25%, black 75%, white 75%);
+
   background-size: 300px 300px; /* Adjust the size of the squares */
   background-position: 0 0, 150px 150px; /* Shift the second gradient to create the checkered effect */
 }
+
 /* Title */
 .container {
   background-color: white;
