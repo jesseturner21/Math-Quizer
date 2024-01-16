@@ -57,4 +57,5 @@ Start sharpening your computation skills now with Math Quizer! Have fun and happ
 
 *Note: Don't forget to check the project repository for any updates or additional features.*
 
-![Math Quizer](insert_image_url_here) 
+![Math Quizer]<img width="443" alt="image" src="https://github.com/jesseturner21/Math-Quizer/assets/57651174/139d1536-1d78-41b7-9a56-069591466239">
+) 
