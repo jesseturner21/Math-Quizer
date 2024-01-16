@@ -29,10 +29,12 @@ Welcome to Math Quizer, an interactive web application that challenges users wit
 2. **Start Quiz:**
    - Use scroll to select # of questions
    - Click on the type of Math "+" "-" "x" "/" button to begin your mathematical journey.
+<img width="1072" alt="image" src="https://github.com/jesseturner21/Math-Quizer/assets/57651174/76abbfe0-a2f2-455e-b7ee-b97a4e222f11">
 
 4. **Answer Questions:**
    - Solve a variety of advanced computation problems, including addition with two 3-digit numbers and multiplication of two 2-digit numbers.
-
+<img width="443" alt="image" src="https://github.com/jesseturner21/Math-Quizer/assets/57651174/139d1536-1d78-41b7-9a56-069591466239">
+ 
 5. **Receive Instant Feedback:**
    - Get immediate feedback on your answers. Learn from mistakes and track your progress.
 
@@ -57,5 +59,4 @@ Start sharpening your computation skills now with Math Quizer! Have fun and happ
 
 *Note: Don't forget to check the project repository for any updates or additional features.*
 
-![Math Quizer]<img width="443" alt="image" src="https://github.com/jesseturner21/Math-Quizer/assets/57651174/139d1536-1d78-41b7-9a56-069591466239">
-) 
+
